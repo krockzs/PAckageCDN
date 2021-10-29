@@ -1,0 +1,4 @@
+$NUM_ENTRIES = 2
+$BUID_ID = PackageKey
+pakchunk1000-WindowsNoEditor.pak 539099 Ver001 1000 /Windows/pakchunk1000-WindowsNoEditor.pak
+pakchunk1001-WindowsNoEditor.pak 501026 Ver001 1001 /Windows/pakchunk1001-WindowsNoEditor.pak
